@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Nick\source\repos\StackCalculatorFactoryMethod\Debug\CalckTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="Test_Calculation.Adding" Duration="1" />
+    <TestDuration Test="Test_Calculation.Substracting" Duration="1" />
+    <TestDuration Test="Test_Calculation.Multiplie" Duration="1" />
+    <TestDuration Test="Test_Calculation.Divide" Duration="1" />
+    <TestDuration Test="Test_Calculation.SquareRoot" Duration="1" />
+    <TestDuration Test="Test_Calculation.Adder" Duration="1" />
+    <TestDuration Test="Test_Calculation.Subtractor" Duration="1" />
+    <TestDuration Test="Test_Calculation.Multiplier" Duration="1" />
+    <TestDuration Test="Test_Calculation.Divider" Duration="1" />
+    <TestDuration Test="Test_Calculation.Pop" Duration="1" />
+    <TestDuration Test="Test_Calculation.Push" Duration="2" />
+    <TestDuration Test="Test_Calculation.Define" Duration="3" />
+    <TestDuration Test="Test_Calculation.Comment" Duration="2" />
+  </TestDurations>
+</GtaTestDurations>
